@@ -1,0 +1,12 @@
+venv/
+AndroidAnalysis/Mobile-Security-Framework-MobSF/
+AndroidAnalysis/genymotion/
+*.bin
+AndroidAnalysis/mobsf_log.txt
+AndroidAnalysis/ExampleAnalysis/
+AndroidAnalysis/apk_sources/
+AndroidAnalysis/apk/
+AndroidAnalysis/runtime_api_log.txt
+AndroidAnalysis/StaticAnalysisResults/
+AndroidAnalysis/run_dynamic.py
+AndroidAnalysis/Frida/frida-server
